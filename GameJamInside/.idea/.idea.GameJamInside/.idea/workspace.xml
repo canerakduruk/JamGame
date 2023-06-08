@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="212a1448-9eb9-4e81-8bc6-aa8a39929688" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameJamInside/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameJamInside/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerVariables.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerVariables.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/New.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +11,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/CharacterMap.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@14.0.7/Editor/ShaderGenerator/ShaderGeneratorMenu.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -90,6 +86,9 @@
       <updated>1686141117759</updated>
       <workItem from="1686141123197" duration="2211000" />
       <workItem from="1686144050842" duration="3868000" />
+      <workItem from="1686149122053" duration="755000" />
+      <workItem from="1686150155869" duration="2000" />
+      <workItem from="1686232813814" duration="3304000" />
     </task>
     <servers />
   </component>
