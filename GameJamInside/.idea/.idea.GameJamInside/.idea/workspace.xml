@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="212a1448-9eb9-4e81-8bc6-aa8a39929688" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.GameJamInside/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.GameJamInside/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StarterAssets/ThirdPersonController/Scripts/ThirdPersonController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Deneme.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Deneme.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/New.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/New.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +91,8 @@
       <workItem from="1686149122053" duration="755000" />
       <workItem from="1686150155869" duration="2000" />
       <workItem from="1686232813814" duration="3459000" />
-      <workItem from="1686236909975" duration="913000" />
+      <workItem from="1686236909975" duration="1670000" />
+      <workItem from="1686403696316" duration="29000" />
     </task>
     <servers />
   </component>
